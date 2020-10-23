@@ -41,8 +41,8 @@ spellteje = False
 
 #introductie
 print("Welkom bij het keuzeverhaal van Amir.")
-print("Je krijgt zo meteen stukjes tekst te zien die het verhaal van Amir vertellen.")
-print("Daarna krijg je twee keuzes, A of B. Die keuzes die jij maakt hebben invloed op het vrehaal.")
+print("Je krijgt zodirect stukjes tekst te zien die het verhaal van Amir vertellen.")
+print("Daarna krijg je twee keuzes, A of B. De keuzes die jij maakt hebben invloed op het vrehaal.")
 print("Laten we beginnen!")
 print("(druk op enter om verder te gaan)")
 Druk_op_enter_1 = input(">>>")
@@ -73,11 +73,11 @@ while spelletje == True:
         print("Je wordt wakker op een vroege donderdagochtend.")
         print("Je hebt goed geslapen, maar de dag zou heel anders lopen dan dat je had verwacht.")
         print("Om 14:00 uur hoor je een zwaar brommend geluid.")
-        print("Het brommen begon harder en harder te worden.")
+        print("Het brommen wordt harder en harder te worden.")
         print("Toen je naar buiten liep zag je een vloot met vliegtuigen.")
         print("Je rent terug naar binnen en je gaat met je familie richting de kelder daar is het veilig. ")
         print("Een paar seconden later hoor je de bommen ontploffen en huizen die kapotgingen, ook hoor je mensen gillen en schreeuwen.")
-        print("Na vijf minuten is het bombardement over en ga je naar buiten om te kijken wat de schade is.")
+        print("Na vijf minuten is het bombardement over en dan loop je naar buiten om te kijken wat de schade is.")
         print("Je ziet dat jouw huis deels weggeblazen is maar andere families zijn er erger aan toe.")
         print("")
         print("Wat ga je doen?")
@@ -148,7 +148,7 @@ while spelletje == True:
 #stukje_4
     while stukje_4 == True:
         print("Je buurman ligt onder het puin, je haalt brokken steen en ander puin van hem vandaan en dan bevrijd je hem. ")
-        print("Een paar seconde later stort er nog een groter deel van het huis in. Hij bedankt je en dan ga je weer verder.")
+        print("Een paar seconden later stort er nog een groter deel van het huis in. Hij bedankt je en dan ga je weer verder.")
         print("")
         print("Wat ga je doen?")
         print("")

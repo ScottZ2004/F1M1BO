@@ -1,4 +1,6 @@
 # Dit zijn de variabelen!
+import os
+os.system("cls")
 inleiding = False
 stukje_1 = False
 stukje_2 = False

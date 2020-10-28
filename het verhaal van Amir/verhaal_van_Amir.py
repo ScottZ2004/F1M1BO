@@ -55,6 +55,7 @@ spelletje = True
 #inleiding
 #---------------------------------------------------------------------------------
 while spelletje == True:
+    os.system("cls")
     
     while inleiding == True:
         print("Inleiding,")
@@ -75,9 +76,9 @@ while spelletje == True:
         print("Je wordt wakker op een vroege donderdagochtend.")
         print("Je hebt goed geslapen, maar de dag zou heel anders lopen dan dat je had verwacht.")
         print("Om 14:00 uur hoor je een zwaar brommend geluid.")
-        print("Het brommen wordt harder en harder te worden.")
+        print("Het brommen wordt harder en harder.")
         print("Toen je naar buiten liep zag je een vloot met vliegtuigen.")
-        print("Je rent terug naar binnen en je gaat met je familie richting de kelder daar is het veilig. ")
+        print("Je rent terug naar binnen en je gaat met je familie richting de kelder, daar is het veilig. ")
         print("Een paar seconden later hoor je de bommen ontploffen en huizen die kapotgingen, ook hoor je mensen gillen en schreeuwen.")
         print("Na vijf minuten is het bombardement over en dan loop je naar buiten om te kijken wat de schade is.")
         print("Je ziet dat jouw huis deels weggeblazen is maar andere families zijn er erger aan toe.")
@@ -229,7 +230,7 @@ while spelletje == True:
     print("")
 # Stukje_9
     while stukje_9 == True:
-        print("Jij en je familie gaan te voet richting de grens. ")
+        print("Jij en je familie gaan te voet richting de grens.")
         print("Als jullie 13 uur later aankomen bij de grens laat de grensbewaking jullie er niet door omdat jij geen paspoort hebt.")
         print("Je vraagt of je hem iets kan geven om jullie over de grens te laten gaan.")
         print("Hij twijfelt even maar daarna vraagt hij om tienduizend lira.")
